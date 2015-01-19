@@ -1,0 +1,2 @@
+v1.0 Build 07 - Added Esc to exit fullscreen
+v1.0 - Released to public

@@ -1,0 +1,101 @@
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM Client.csproj.ResolveComReference.cache
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\TFM Client.exe.manifest
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\TFM Client.application
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\TFM Client.exe
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\TFM Client.pdb
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM_Client.Properties.Resources.resources
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM Client.exe.manifest
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM Client.application
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM Client.exe
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM Client.pdb
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM_Client.About.resources
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\TFM Client.exe.config
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM_Client.TFM.resources
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\TFM Client.exe.config
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM Client.csproj.ResolveComReference.cache
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM Client.exe
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM Client.pdb
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\TFM Client.exe.manifest
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\TFM Client.application
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\TFM Client.exe
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\TFM Client.pdb
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM_Client.About.resources
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM_Client.TFM.resources
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM_Client.Properties.Resources.resources
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM Client.exe.manifest
+C:\Users\Stash\Desktop\Programming\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Release\TFM Client.application
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.exe.config
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM Client.exe
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM Client.pdb
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.exe.manifest
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.application
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.exe
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.pdb
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.About.resources
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.TFM.resources
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.Properties.Resources.resources
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM Client.exe.manifest
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM Client.application
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client - Copy\TFM Client\TFM Client\bin\Release\TFM Client.exe.config
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client - Copy\TFM Client\TFM Client\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client - Copy\TFM Client\TFM Client\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client - Copy\TFM Client\TFM Client\obj\x86\Release\TFM Client.csproj.ResolveComReference.cache
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client - Copy\TFM Client\TFM Client\obj\x86\Release\TFM Client.exe
+C:\Users\Stash\Desktop\Programming\c sharp\TFM PHP Client - Copy\TFM Client\TFM Client\obj\x86\Release\TFM Client.pdb
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.exe.config
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM Client.exe
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM Client.pdb
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.exe
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.pdb
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.About.resources
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.TFM.resources
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\ResGen.read.1.tlog
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\ResGen.write.1.tlog
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.Resources.resources
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.logHistory.resources
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM Client.exe
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM Client.pdb
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.exe.config
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.exe
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Release\TFM Client.pdb
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.About.resources
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.logHistory.resources
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.Resources.resources
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.TFM.resources
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.GetKey.resources
+C:\Users\Stash\Desktop\xp desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Release\TFM_Client.Replacer.resources

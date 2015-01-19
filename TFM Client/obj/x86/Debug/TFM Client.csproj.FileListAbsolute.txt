@@ -1,0 +1,31 @@
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\TFM Client.csproj.ResolveComReference.cache
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\TFM_Client.Form1.resources
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\TFM_Client.Properties.Resources.resources
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Debug\TFM Client.exe
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Debug\TFM Client.pdb
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\TFM Client.exe
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\TFM Client.pdb
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Debug\TFM Client.exe.manifest
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\bin\Debug\TFM Client.application
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\TFM Client.exe.manifest
+C:\Users\Stash\Desktop\c sharp\vb TFM\TFM Client\TFM Client\obj\x86\Debug\TFM Client.application
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Debug\TFM Client.exe.config
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Debug\TFM Client.exe
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Debug\TFM_Client.About.resources
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Debug\TFM_Client.TFM.resources
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Debug\TFM Client.exe
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\bin\Debug\TFM Client.pdb
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Debug\TFM Client.pdb
+H:\Documents and Settings\Administrator\Desktop\Programming\c sharp\TFM PHP Client\TFM Client\TFM Client\obj\x86\Debug\TFM_Client.Resources.resources
